@@ -1,8 +1,8 @@
 # Site settings
-title: Nith.dev
-email: email@nith.dev
-url: nith.dev
-description: "Hi there! I'm Nith. I'm a second year Comp-Sci student with experience in Java, Python, Node.js and C++. Welcome to my website!"
+title: Neya Ramanan
+email: nrama080@uottawa.ca
+url: nrama080.github.io
+description: "Hi there! My name is Neya Ramanan. I am going into my third year of Honours Biomedical Sciences at the University of Ottawa with Extended French. Welcome! Bonjour. Je m'appelle Neya Ramanan. J'entre dans ma troisième année de spécialisation en sciences biomédicales à l'Univesité d'Ottawa avec le français enrichi. Bienvenue!"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,12 +10,12 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Nith.dev
+footer: nrama080.github.io
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: github
-    url:
+  - title: linkedin
+    url: https://www.linkedin.com/in/neya-ramanan-045186145/
 
 # Build settings
 markdown: kramdown
