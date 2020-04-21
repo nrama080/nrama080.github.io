@@ -7,7 +7,7 @@ description: "Hello! My name is Neya Ramanan. I am going into my third year of H
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
+  links: 'FFFFFF'
 
 # Footer settings
 footer: nrama080.github.io
