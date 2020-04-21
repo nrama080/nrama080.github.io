@@ -15,7 +15,7 @@ footer: Nith.dev
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
-    url: https://github.com/nskha101/
+    url:
 
 # Build settings
 markdown: kramdown
