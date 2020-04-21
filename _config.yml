@@ -1,0 +1,22 @@
+# Site settings
+title: Nith.dev
+email: email@nith.dev
+url: nith.dev
+description: "Hi there! I'm Nith. I'm a second year Comp-Sci student with experience in Java, Python, Node.js and C++. Welcome to my website!"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Nith.dev
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://github.com/nskha101/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
